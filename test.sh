@@ -8,5 +8,5 @@ echo "add your commit"
 read commit
 git commit -m "'$commit'"
 
-git remote add origin https://github.com/uwindaji/oryx.git
+git remote add origin https://uwindaji:enauoram29*@github.com/uwindaji/oryx.git
 git push -u origin master
